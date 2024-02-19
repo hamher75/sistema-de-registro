@@ -5,3 +5,5 @@
 Para ejecutar el sistema usa:
 
 ``` npm install react ```
+
+Sistema de registro actualizado
